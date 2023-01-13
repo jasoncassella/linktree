@@ -1,0 +1,26 @@
+{
+  "name": "Jason Cassella",
+  "avatar": "twitterimage",
+  "links": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/jsonvscode"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/jasoncassella"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/jsonvscode"
+    },
+    {
+      "title": "GitHub",
+      "url":"https://github.com/jasoncassella"
+    }
+  ]
+
+
+}
